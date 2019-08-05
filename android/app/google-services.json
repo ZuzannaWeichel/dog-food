@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612788262886",
+    "firebase_url": "https://dog-food-app-981a6.firebaseio.com",
+    "project_id": "dog-food-app-981a6",
+    "storage_bucket": "dog-food-app-981a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612788262886:android:ff478f370d0932f3",
+        "android_client_info": {
+          "package_name": "com.zuzanna_weichel.dog_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612788262886-g5qhfh38077liv9to6lo7jmsr0733546.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ5s0HrF2q-qcymbQ4aaYzWV53OWO-2BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612788262886-g5qhfh38077liv9to6lo7jmsr0733546.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
